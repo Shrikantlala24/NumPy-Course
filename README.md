@@ -1,2 +1,19 @@
-# NumPy-Course
-This repository is for NumPy for data analysis 📊 — from arrays, slicing, broadcasting to masking &amp; operations. Practice with quizzes, challenges, and projects 💻 to build real-world data skills.
+# NumPy Course  
+
+This repository is a step-by-step guide to mastering **NumPy for Data Analysis** 📊.  
+We’ll cover each topic systematically, practice with challenges & quizzes, and build projects to apply what we learn 💻.  
+
+## 📚 Topics Covered  
+- [NumPy Arrays](./NumPy%20Arrays)  
+- [Array Methods and Attributes](./Array%20Methods%20and%20Attributes)  
+- [Indexing and Slicing](./Indexing%20and%20Slicing)  
+- [Broadcasting](./Broadcasting)  
+- [Fancy Indexing](./Fancy%20Indexing)  
+- [Boolean Masking](./Boolean%20Masking)  
+- [Arithmetic Operations](./Arithmetic%20Operations)  
+- [Challenge: NumPy Essentials](./Challenge%20NumPy%20Essentials)  
+- [Solution: NumPy Essentials](./Solution%20NumPy%20Essentials)  
+- [Quiz: NumPy for Data Analysis](./Quiz%20NumPy%20for%20Data%20Analysis)  
+
+## 🎯 Goal  
+By the end of this course, you’ll have a solid understanding of **NumPy fundamentals** and the confidence to use it in **data science & machine learning projects** 🚀.  
