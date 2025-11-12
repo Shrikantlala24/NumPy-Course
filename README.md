@@ -4,7 +4,8 @@ This repository is a step-by-step guide to mastering **NumPy for Data Analysis**
 We’ll cover each topic systematically, practice with challenges & quizzes, and build projects to apply what we learn 💻.  
 
 ## 📚 Topics Covered  
-- [NumPy Arrays](./NumPy%20Arrays)  
+- [Introduction to NumPy](./Intro%20to%20arrays.ipynb)
+- [NumPy Arrays](./Numpy%20arrays.ipynb)  
 - [Array Methods and Attributes](./Array%20Methods%20and%20Attributes)  
 - [Indexing and Slicing](./Indexing%20and%20Slicing)  
 - [Broadcasting](./Broadcasting)  
