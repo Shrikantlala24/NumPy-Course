@@ -5,16 +5,15 @@ We’ll cover each topic systematically, practice with challenges & quizzes, and
 
 ## 📚 Topics Covered  
 - [Introduction to NumPy](./1_Intro_to_arrays.ipynb)
-- [NumPy Arrays](./2_Numpy_arrays.ipynb)  
-- [Array Methods and Attributes](./Array%20methods%20&%20Attributes.ipynb)  
-- [Indexing and Slicing](./Indexing%20and%20Slicing)  
-- [Broadcasting](./Broadcasting)  
-- [Fancy Indexing](./Fancy%20Indexing)  
-- [Boolean Masking](./Boolean%20Masking)  
-- [Arithmetic Operations](./Arithmetic%20Operations)  
-- [Challenge: NumPy Essentials](./Challenge%20NumPy%20Essentials)  
-- [Solution: NumPy Essentials](./Solution%20NumPy%20Essentials)  
-- [Quiz: NumPy for Data Analysis](./Quiz%20NumPy%20for%20Data%20Analysis)  
+- [NumPy Arrays](./2_Numpy_arrays.ipynb)
+- [Array Methods & Attributes](./3_Array_methods_&_Attributes.ipynb)
+- [Arrays vs List](./4_Arrays_VS_List.ipynb)
+- [Indexing, Slicing and Iteration](./5_Indexing,_slicing_and_iteration.ipynb)
+- [NumPy Operations (unary + Static functions)](./6_Numpy_operations.ipynb)
+- [Reshaping](./7_Reshaping.ipynb)
+- [Fancy indexing + Boolean masking](./8_Miscellaneous_topics.ipynb)
+- [Broadcasting](./9_Broadcasting.ipynb)
+
 
 ## 🎯 Goal  
 By the end of this course, you’ll have a solid understanding of **NumPy fundamentals** and the confidence to use it in **data science & machine learning projects** 🚀.  
