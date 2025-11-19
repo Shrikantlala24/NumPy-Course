@@ -127,7 +127,7 @@ Here’s your complete learning path at a glance, now with clean visual cues:
 
 ---
 
-## 🚀 The Outcome (What This Journey Makes You Capable Of) (Your Skills After This Journey)
+## 🚀 The Outcome (What This Journey Makes You Capable Of) 
 
 By working through these notebooks, you will confidently:
 ✔ Build and manipulate arrays like a pro
